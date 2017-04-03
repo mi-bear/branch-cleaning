@@ -1,5 +1,6 @@
 # branch-cleaning
-GitHubEnterpriseのリポジトリを指定し、`protectBranches`に設定したブランチ以外を削除するのみ。
+GitHubEnterpriseのリポジトリを指定し、`protectBranches`に設定したブランチ以外を削除する。  
+一切チェックをしないので危険なプログラムです。
 
 ## Usage
 
