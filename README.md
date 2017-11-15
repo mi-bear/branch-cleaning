@@ -5,7 +5,7 @@ GitHubEnterpriseのリポジトリを指定し、`protectBranches`に設定し�
 ## Usage
 
 ```
-go run cleaning.go --repository {repository_name}
+go run cmd/cleaning/main.go --repository {repository_name}
 ```
 
 ## Compile
